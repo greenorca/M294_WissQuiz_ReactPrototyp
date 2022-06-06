@@ -28,6 +28,32 @@
   color: #61dafb;
 }
 
+.question .container {
+  display: block;
+  width: 60%;
+  height: 200px;
+  border: 1px solid #AAA;
+  margin: auto;
+}
+
+.question .container img {
+  height: 200px;
+}
+
+.button-bar {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+button.answer {
+  padding: 10px 20px;
+  margin: 10px;
+  border:5px solid #ACA;
+  border-radius: 5px;
+  font-size: 2em;
+  display: inline-grid;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
