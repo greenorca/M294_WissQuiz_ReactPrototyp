@@ -1,4 +1,22 @@
-# Getting Started with Create React App
+# Wiss - Quiz
+
+Einzelspieler - Quiz mit zunächst lokalem Frage-Store.
+
+## Ablauf
+1. Anzeige der Fragen
+
+    <img alt="README-802d5182.png" src="img/README-802d5182.png" width="" height="" >
+
+2. Spielende
+    <img alt="README-bc7e728e.png" src="img/README-bc7e728e.png" width="" height="" >
+
+## Ausbaumöglichkeiten
+
+1. Anfängliche Auswahl des Themengebietes, Fragen und Antworten via REST-API
+1. Online - Bestenliste (oder Skill-Spidercharts, wäre ehh cool für die Lernenden)
+2. Admin-Bereich für Fragen
+
+# Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
