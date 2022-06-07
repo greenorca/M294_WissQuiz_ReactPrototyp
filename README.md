@@ -10,6 +10,13 @@ Einzelspieler - Quiz mit zunächst lokalem Frage-Store.
 2. Spielende
     <img alt="README-bc7e728e.png" src="img/README-bc7e728e.png" width="" height="" >
 
+## Benutzungshinweise
+
+1. Voraussetzungen: NodeJS ist installiert
+1. klonen
+2. im Clon-Verzeichnis `npm audit --fix` ausführen
+3. starten mit `npm start`
+
 ## Ausbaumöglichkeiten
 
 1. Anfängliche Auswahl des Themengebietes, Fragen und Antworten via REST-API
