@@ -19,7 +19,7 @@ Einzelspieler - Quiz mit zunächst lokalem Frage-Store.
 
 ## Ausbaumöglichkeiten
 
-1. Anfängliche Auswahl des Themengebietes, Fragen und Antworten via REST-API
+1. Anfängliche Auswahl des Themengebietes, Fragen und Antworten via REST-API (specs siehe https://kalaidos.sharepoint.com/sites/294Modul-Master/_layouts/15/Doc.aspx?sourcedoc={bebf7fdc-97f6-4f8e-9f51-8f3b36f87a4e}&action=edit&wd=target%28_Collaboration%20Space%2F294%20-%20Workshop%20Brainstorming.one%7Cbaeb0f8a-c4d2-4428-aac0-ca8baecf74de%2F294%20REST-API%7C7dd0082d-a58f-47bd-892c-42ce5af96651%2F%29&wdorigin=703)
 1. Online - Bestenliste (oder Skill-Spidercharts, wäre ehh cool für die Lernenden)
 2. Admin-Bereich für Fragen
 
