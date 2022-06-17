@@ -1,0 +1,7 @@
+li {
+    font-size: larger;
+    display:inline-block;
+    list-style: none;
+    font-variant: small-caps;
+    margin: 0 10px;
+}

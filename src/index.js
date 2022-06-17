@@ -2,6 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+import Categories from './components/Categories';
+//import FetchCategoriesFunction from "./components/FetchCategoriesFunction";
 
 const pool = [
   {
@@ -29,9 +31,18 @@ const pool = [
   },
 ]
 
+function handleCallback(item){
+  console.log("got item: "+item)
+}
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
+    <h1>Welcome to the Wiss - Quiz</h1>
+    <div className="menu">
+      {/*<FetchCategoriesFunction />*/}
+      <Categories callback={handleCallback}/>
+    </div>
     <App pool={pool}/>
   </React.StrictMode>
 );

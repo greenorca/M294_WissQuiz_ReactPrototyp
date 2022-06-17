@@ -14,7 +14,7 @@ Einzelspieler - Quiz mit zunächst lokalem Frage-Store.
 
 1. Voraussetzungen: NodeJS ist installiert
 1. klonen
-2. im Clon-Verzeichnis `npm audit --fix` ausführen
+2. im Clon-Verzeichnis `npm install && npm audit --fix` ausführen
 3. starten mit `npm start`
 
 ## Ausbaumöglichkeiten
