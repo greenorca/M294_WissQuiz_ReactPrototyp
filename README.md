@@ -2,6 +2,8 @@
 
 Einzelspieler - Quiz mit zunächst lokalem Frage-Store.
 
+<!-- letze Änderung: Class Categories mit remote fetch -->
+
 ## Ablauf
 1. Anzeige der Fragen
 
